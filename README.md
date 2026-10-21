@@ -24,4 +24,4 @@ git branch -M main
 git remote add origin https://github.com/TEN-TAI-KHOAN/TEN-REPOSITORY.git
 git push -u origin main
 ```
-Thay URL mẫu bằng URL repository của bạn. Không đẩy mật khẩu thật lên GitHub. Tài khoản admin demo chỉ dành cho chạy local, cần thay trước khi triển khai công khai.
+
