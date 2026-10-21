@@ -76,11 +76,11 @@ Các điểm đến minh họa bao gồm:
 Mở Terminal hoặc Command Prompt và chạy:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
+git clone <https://github.com/phamvietanh110106-netizen/tourvela.git>
+cd <https://github.com/phamvietanh110106-netizen/tourvela.git>
 ```
 
-Thay `<YOUR_GITHUB_REPOSITORY_URL>` bằng địa chỉ repository GitHub của bạn.
+
 
 ### 2. Cài đặt và khởi động XAMPP
 
@@ -221,7 +221,7 @@ Dự án giúp vận dụng kiến thức về lập trình web, xử lý dữ l
 - **Tên dự án:** TourVela
 - **Loại dự án:** Đồ án môn học
 - **Lĩnh vực:** Website du lịch và đặt tour
-- **Repository:** `<YOUR_GITHUB_REPOSITORY_URL>`
+- **Repository:** `<https://github.com/phamvietanh110106-netizen/tourvela.git>`
 
 ---
 
@@ -285,4 +285,4 @@ This project demonstrates practical knowledge of PHP web development, relational
 
 Liên hệ
 Email: phamvietanhxfile@gmail.com
-
+https://github.com/phamvietanh110106-netizen/tourvela.git
